@@ -23,6 +23,9 @@ Project allows to generate 50 users, 100 courses and 40 enrollments with random 
 ### Update course status, delete a course, load aditional information
 [update-delete-load-more.webm](https://user-images.githubusercontent.com/93677423/226911553-1cc89f86-bcc3-441e-b1e1-f1d6d98dc2c2.webm)
 
+### Testing
+[testing.webm](https://user-images.githubusercontent.com/93677423/226913305-64cab197-b2a2-459f-bd52-d565b32800f2.webm)
+
 ## Technologies
 
 Project is created with:
