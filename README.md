@@ -26,9 +26,9 @@ Project is created with:
 ## Setup
 
 1. Clone this repository `git clone https://github.com/dauchinjs/MLH.git`
-2. Install all dependencies `composer install` and `npm install`
+2. Install all dependencies `composer install` and `npm install` and `npm run dev`
 3. Create a database and rename the `.env.example` file to `.env` and add your credentials
-4. To generate an app key use `php artisan key:generate`
+4. Because you ran `npm run dev` open a new terminal and generate an app key using `php artisan key:generate`
 5. Run migrations `php artisan migrate`
 6. To run tests use `php artisan test`
 7. To get random data for database run seeds `php artisan db:seed`
